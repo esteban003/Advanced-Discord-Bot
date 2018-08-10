@@ -1139,4 +1139,4 @@ bot.on('messageReactionAdd', (reaction, user) => {
 }
 });
 
-bot.login(TOKEN);
+bot.login(NDA0MDMzNDQyMzM0OTAwMjI0.Dk8UOg._9OrO7FGekPSxLdB10HmDWkm-MU);
